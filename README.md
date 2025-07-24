@@ -5,7 +5,7 @@ A machine learning project to forecast rainfall using historical meteorological 
 
 ## 📊 Overview
 
-This project applies **Support Vector Machines (SVM)** to predict rainfall based on daily weather features such as temperature, humidity, wind speed, and more. The model is trained on historical data and achieves over **90% accuracy**, outperforming traditional statistical methods.
+This project applies **Support Vector Machines (SVM)** to predict rainfall based on daily weather features such as temperature, humidity, wind speed, and more. The model is trained on historical data and achieves over **90.52% accuracy**, outperforming traditional statistical methods.
 
 
 ## 🌐 Dataset
