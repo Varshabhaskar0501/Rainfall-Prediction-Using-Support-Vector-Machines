@@ -13,9 +13,8 @@ This project applies **Support Vector Machines (SVM)** to predict rainfall based
 - **Source**: Kaggle  
 - **Records**: 73,100 daily weather entries (2024–2025)  
 - **Features**: Date, Location, Temperature, Humidity, Wind Speed, Pressure, Cloud Cover, Precipitation  
-- **Target**: Binary classification — Will it rain tomorrow? (`RainTomorrow`)
-
-
+- **Target**: Binary classification
+  
 ## 🧠 Tools & Libraries
 
 - **Language**: Python  
